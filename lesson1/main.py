@@ -153,5 +153,3 @@ print("My favourite book is \"The Alchemist\" John Doe") #Escape character
 print("My favourite book is 'The Alchemist' John Doe")
 
 
-
-aaaaa
